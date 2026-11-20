@@ -1,0 +1,6 @@
+{
+  "name": "ClearHearth",
+  "description": "GenAI-powered winter smog and urban air pollution assistant helping families and communities adopt low-emission routines, indoor air quality protocols, and sustainable swaps with transparent impact metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
